@@ -14,4 +14,6 @@ Zustand - A small, fast, and scalable state-management solution.
 
 #### To run the app:
 cd TodoApp
+
+
 npm start (use the lastest version of expo)
